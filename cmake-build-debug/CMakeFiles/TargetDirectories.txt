@@ -1,3 +1,0 @@
-/home/lucky/FOEY/test_IMU_VP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lucky/FOEY/test_IMU_VP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lucky/FOEY/test_IMU_VP/cmake-build-debug/CMakeFiles/test_IMU_VP.dir
